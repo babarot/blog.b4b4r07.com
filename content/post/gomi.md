@@ -99,7 +99,7 @@ $ trash --help
 
 # gomi
 
-[![](https://raw.githubusercontent.com/b4b4r07/gomi/master/images/gomi_logo.png)](https://github.com/b4b4r07/gomi "b4b4r07/gomi")
+[![](https://raw.githubusercontent.com/b4b4r07/screenshots/master/gomi/logo.png)](https://github.com/b4b4r07/gomi "b4b4r07/gomi")
 
 - [b4b4r07/gomi](https://github.com/b4b4r07/gomi) [![](https://img.shields.io/github/stars/b4b4r07/gomi.svg?style=flat-square)](https://github.com/b4b4r07/gomi "b4b4r07/gomi")
 
@@ -120,7 +120,7 @@ $ trash --help
 
 これだけでもかなり便利です．下の GIF を参照されたい．
 
-[![b4b4r07/gomi](https://raw.githubusercontent.com/b4b4r07/gomi/master/images/gomi.gif)](https://github.com/b4b4r07/gomi "b4b4r07/gomi")
+[![b4b4r07/gomi](https://raw.githubusercontent.com/b4b4r07/screenshots/master/gomi/demo.gif)](https://github.com/b4b4r07/gomi "b4b4r07/gomi")
 
 めっちゃ便利．
 
