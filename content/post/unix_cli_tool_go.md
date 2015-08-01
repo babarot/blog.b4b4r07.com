@@ -8,7 +8,7 @@ title = "開発者から見た UNIX 哲学とコマンドラインツールと G
 CLI（Command-line Interface）ツールが好きで自分でもよく作るし，よく使っている．最近は高速で，かつクロスコンパイルが容易な Go 言語がその開発に使われることが多いようだ．実際に筆者も拙劣ながら Go 言語で何個かリリースしている．
 
 - [b4b4r07/gch](https://github.com/b4b4r07/gch) [![](https://img.shields.io/github/stars/b4b4r07/gch.svg?style=flat-square)](https://github.com/b4b4r07/gch "b4b4r07/gch - GitHub") 
-- [b4b4r07/goal](https://github.com/b4b4r07/goal) [![](https://img.shields.io/github/stars/b4b4r07/goal.svg?style=flat-square)](https://github.com/b4b4r07/goal "b4b4r07/goal - GitHub") 
+- [b4b4r07/gotcha](https://github.com/b4b4r07/gotcha) [![](https://img.shields.io/github/stars/b4b4r07/gotcha.svg?style=flat-square)](https://github.com/b4b4r07/goal "b4b4r07/goal - GitHub") 
 -  [b4b4r07/gomi](https://github.com/b4b4r07/gomi) [![](https://img.shields.io/github/stars/b4b4r07/gomi.svg?style=flat-square)](https://github.com/b4b4r07/gomi "b4b4r07/gomi - GitHub") 
 
 CLI ツールの歴史はとても長く，過去たくさんの素晴らしい資産と独自の哲学がある．現代にいきる我々も当然その思想に従うべきで，CLI ツールを作るならその哲学を踏襲するのが常識だ．
